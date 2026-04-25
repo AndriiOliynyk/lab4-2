@@ -6,7 +6,7 @@ import Projects     from './components/Projects';
 import Education    from './components/Education';
 import AdditionalInfo from './components/AdditionalInfo';
 import Reviews      from './components/Reviews';
-import ContactForm  from './components/ContactForm';
+import ContactForm  from './components/Contactаorm';
 import Footer       from './components/Footer';
 
 function getAutoTheme() {
